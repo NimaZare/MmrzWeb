@@ -1,0 +1,46 @@
+﻿@page "/admin/home"
+@page "/admin/index"
+
+@attribute [Authorize(Roles = "Administrator")]
+@inject IJSRuntime js
+
+
+<PageTitle>Admin Panel</PageTitle>
+
+<AuthorizeView>
+	<Authorized>
+		<h1>Hi, @context.User.Identity.Name!</h1>
+	</Authorized>
+	<NotAuthorized>
+		<h1>Hello, Guest!</h1>
+	</NotAuthorized>
+</AuthorizeView>
+
+Welcome to custom authentication app :)
+
+<AuthorizeView>
+	<Authorized>
+		<br /> <br />
+		<button class="btn btn-outline-primary" @onclick="DisplayGreetingAlert">Display Greeting Alert</button>
+	</Authorized>
+</AuthorizeView>
+
+@code {
+
+	[CascadingParameter]
+	private Task<AuthenticationState> authenticationState { get; set; }
+
+	private async Task DisplayGreetingAlert()
+	{
+		if (authenticationState is not null)
+		{
+			var authState = await authenticationState;
+			var message = $"Hey {authState.User?.Identity?.Name}";
+			await js.InvokeVoidAsync("alert", message);
+		}
+		else
+		{
+			await js.InvokeVoidAsync("alert", "Error To Get User Details !");
+		}
+	}
+}

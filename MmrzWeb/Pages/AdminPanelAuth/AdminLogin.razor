@@ -1,0 +1,145 @@
+﻿@page "/login"
+
+@inject UserAccountService userAccountService
+@inject IJSRuntime js
+@inject AuthenticationStateProvider authStateProvider
+@inject NavigationManager navManager
+@inject IConfiguration Configuration
+@inherits OwningComponentBase<UserAccountService>
+
+@if (Configuration["FirstRegister"].ToLower().ToString() == "false")
+{
+	<div class="limiter">
+		<div class="container-login100">
+			<div class="wrap-login100">
+				<div class="login100-pic js-tilt" data-tilt>
+					<img src="AdminTheme/images/img-01.png" alt="IMG">
+				</div>
+				<form class="login100-form validate-form">
+					<span class="login100-form-title">Administrator Login</span>
+					<div class="wrap-input100 validate-input" data-validate="valid email is required: yourid@gmail.com">
+						<input class="input100" type="text" name="email" placeholder="Email" @bind="model.Email" />
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</span>
+					</div>
+					<div class="wrap-input100 validate-input" data-validate="password is required : Name#+*12345">
+						<input class="input100" type="password" name="pass" placeholder="Password" @bind="model.Password" />
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-lock" aria-hidden="true"></i>
+						</span>
+					</div>
+					<div class="container-login100-form-btn">
+						<button class="login100-form-btn" @onclick="Authenticate">Login</button>
+					</div>
+					<div class="text-center p-t-136">
+						<a class="txt2" href="#"></a>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+}
+else
+{
+	<div class="limiter">
+		<div class="container-login100">
+			<div class="wrap-login100">
+				<div class="login100-pic js-tilt" data-tilt>
+					<img src="AdminTheme/images/img-01.png" alt="IMG">
+				</div>
+				<form class="login100-form validate-form">
+					<span class="login100-form-title">Register Account</span>
+					<div class="wrap-input100 validate-input" data-validate="valid email is required: yourid@gmail.com">
+						<input class="input100" type="text" name="email" placeholder="Your Email" @bind="model.Email" />
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</span>
+					</div>
+					<div class="wrap-input100 validate-input" data-validate="password is required : Name#+*12345">
+						<input class="input100" type="password" name="pass" placeholder="Your Password" @bind="model.Password" />
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-lock" aria-hidden="true"></i>
+						</span>
+					</div>
+					<div class="container-login100-form-btn">
+						<button class="login100-form-btn" @onclick="CreateAccount">Create Account</button>
+					</div>
+					<div class="text-center p-t-136">
+						<a class="txt2" href="/admin/home"></a>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+}
+
+@code {
+
+	private UserAccount model = new();
+
+	public async Task Authenticate()
+	{
+		var users = await userAccountService.GetUsersAsync();
+		var userAccount = users?.FirstOrDefault(u => u.Email == model.Email);
+		if (userAccount is null || userAccount.Password != model.Password)
+		{
+			await js.InvokeVoidAsync("alert", "Invalid Email Or Password");
+			return;
+		}
+		else
+		{
+			if (userAccount.Role is not "Administrator")
+			{
+				await js.InvokeVoidAsync("alert", "You do not have the necessary permissions :)");
+				return;
+			}
+			else
+			{
+				var customAuthStateProvider = (CustomAuthenticationStateProvider)authStateProvider;
+				await customAuthStateProvider.UpdateAuthenticationState(new UserSession
+					{
+						Email = userAccount.Email,
+						Role = userAccount.Role
+					});
+				navManager.NavigateTo("/admin/home", true);
+			}
+		}
+	}
+
+	public async Task CreateAccount()
+	{
+		try
+		{
+			var result = await Service.AddUserAsync(model);
+			if (result)
+			{
+				var customAuthStateProvider = (CustomAuthenticationStateProvider)authStateProvider;
+				await customAuthStateProvider.UpdateAuthenticationState(new UserSession
+					{
+						Email = model.Email,
+						Role = "Administrator"
+					});
+
+				Configuration["FirstRegister"] = "false";
+				navManager.NavigateTo("/admin/home", true);
+			}
+			else
+			{
+				Configuration["FirstRegister"] = "true";
+				await js.InvokeVoidAsync("alert", "Register Failed !");
+				navManager.NavigateTo("/login", true);
+			}
+
+		}
+		catch
+		{
+			await js.InvokeVoidAsync("alert", "Register Failed !");
+		}
+	}
+}
+

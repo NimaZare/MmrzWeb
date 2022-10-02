@@ -1,0 +1,64 @@
+﻿@page "/"
+@page "/home"
+@page "/index"
+
+<div id="colorlib-page">
+	<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
+	<aside id="colorlib-aside" role="complementary" class="js-fullheight text-center">
+		<h1 id="colorlib-logo"><a href="~/MyTheme/images/author.jpg"><span class="img" style="background-image: url(~/MyTheme/images/author.jpg);"></span>MMRZ.JPG</a></h1>
+		<nav id="colorlib-main-menu" role="navigation">
+			<ul>
+				<li class="colorlib-active"><a href="/">Home</a></li>
+				<li><a href="/collection">Collection</a></li>
+				<li><a href="/services">My Services</a></li>
+				<li><a href="/about">About Me</a></li>
+				<li><a href="/blog">Blog</a></li>
+				<li><a href="/contact">Contact</a></li>
+			</ul>
+		</nav>
+		<div class="colorlib-footer">
+			<h3>Newsletter</h3>
+			<div class="d-flex justify-content-center">
+				<form action="#" class="colorlib-subscribe-form">
+					<div class="form-group d-flex">
+						<div class="icon"><span class="icon-paper-plane"></span></div>
+						<input type="text" class="form-control" placeholder="Enter Your Email Address">
+					</div>
+				</form>
+			</div>
+		</div>
+	</aside>
+	<div id="colorlib-main">
+		<section class="ftco-section-no-padding bg-light">
+			<div class="hero-wrap">
+				<div class="overlay"></div>
+				<div class="d-flex align-items-center js-fullheight">
+					<div class="author-image text img d-flex">
+						<section class="home-slider js-fullheight owl-carousel">
+							<div class="slider-item js-fullheight" style="background-image: url(MyTheme/images/author.jpg);">
+							</div>
+							<div class="slider-item js-fullheight" style="background-image: url(MyTheme/images/author-2.jpg);">
+							</div>
+						</section>
+					</div>
+					<div class="author-info text p-3 p-md-5">
+						<div class="desc">
+							<span class="subheading">Hello! I'm</span>
+							<h1 class="big-letter">MMRZ.JPG</h1>
+							<h1 class="mb-4"><span>MMRZ.JPG</span> A Photographer. <span>I Capture Life</span></h1>
+							<p class="mb-4">I am A Photographer from America Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+							<h3 class="signature h1">Mohammad Reza Mahdavi</h3>
+							<ul class="ftco-social mt-3">
+								<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+								<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+								<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<InstagramRecentPosts />
+		<Footer />
+	</div>
+</div>
