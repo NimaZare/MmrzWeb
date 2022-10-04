@@ -60,3 +60,8 @@ G:\NimaZare\MyCodes\Blazor\MmrzWeb\MmrzWeb\obj\Debug\net6.0\refint\MmrzWeb.dll
 G:\NimaZare\MyCodes\Blazor\MmrzWeb\MmrzWeb\obj\Debug\net6.0\MmrzWeb.pdb
 G:\NimaZare\MyCodes\Blazor\MmrzWeb\MmrzWeb\obj\Debug\net6.0\MmrzWeb.genruntimeconfig.cache
 G:\NimaZare\MyCodes\Blazor\MmrzWeb\MmrzWeb\obj\Debug\net6.0\ref\MmrzWeb.dll
+G:\NimaZare\MyCodes\Blazor\MmrzWeb\MmrzWeb\obj\Debug\net6.0\staticwebassets\msbuild.MmrzWeb.Microsoft.AspNetCore.StaticWebAssets.props
+G:\NimaZare\MyCodes\Blazor\MmrzWeb\MmrzWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.MmrzWeb.props
+G:\NimaZare\MyCodes\Blazor\MmrzWeb\MmrzWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MmrzWeb.props
+G:\NimaZare\MyCodes\Blazor\MmrzWeb\MmrzWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MmrzWeb.props
+G:\NimaZare\MyCodes\Blazor\MmrzWeb\MmrzWeb\obj\Debug\net6.0\staticwebassets.pack.json

@@ -7,7 +7,7 @@
 @inject IConfiguration Configuration
 @inherits OwningComponentBase<UserAccountService>
 
-@if (Configuration["FirstRegister"].ToLower().ToString() == "false")
+@if (Configuration["FirstRegister"].ToLower().ToString() is not "true")
 {
 	<div class="limiter">
 		<div class="container-login100">

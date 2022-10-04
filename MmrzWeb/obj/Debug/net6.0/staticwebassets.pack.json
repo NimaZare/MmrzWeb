@@ -1,0 +1,1209 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MmrzWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MmrzWeb.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\css\\main.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\css\\main.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\css\\util.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\css\\util.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\montserrat\\OFL.txt"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\images\\img-01.png",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\img-01.png"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\js\\main.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\js\\main.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\AdminTheme\\vendor\\tilt\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\vendor\\tilt\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\.DS_Store"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\animate.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\animate.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\aos.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\aos.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\css\\.DS_Store"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\css\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\css\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\flaticon.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\icomoon.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\css\\style.css",
+      "PackagePath": "staticwebassets\\MyTheme\\css\\style.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\flaticon\\.DS_Store",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\flaticon\\.DS_Store"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\ionicons\\css\\_ionicons.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\ionicons\\css\\_ionicons.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\ionicons\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\ionicons\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\ionicons\\fonts\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\ionicons\\fonts\\ionicons.woff2"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\open-iconic\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\open-iconic\\open-iconic.eot"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\open-iconic\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\open-iconic\\open-iconic.otf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\open-iconic\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\open-iconic\\open-iconic.svg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\open-iconic\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\open-iconic\\open-iconic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\fonts\\open-iconic\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\MyTheme\\fonts\\open-iconic\\open-iconic.woff"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\.DS_Store"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\author-2.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\author-2.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\author.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\author.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\bg_4.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\bg_4.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\image_1.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\image_1.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\image_10.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\image_10.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\image_11.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\image_11.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\image_12.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\image_12.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\image_2.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\image_2.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\image_3.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\image_3.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\image_4.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\image_4.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\image_5.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\image_5.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\image_6.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\image_6.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\image_7.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\image_7.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\image_8.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\image_8.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\image_9.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\image_9.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\loc.png",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\loc.png"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\person_1.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\person_2.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\person_3.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\MyTheme\\images\\person_4.jpg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\.DS_Store"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\aos.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\aos.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\google-map.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\google-map.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\main.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\main.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\popper.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\range.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\range.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\js\\scrollax.min.js",
+      "PackagePath": "staticwebassets\\MyTheme\\js\\scrollax.min.js"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\.DS_Store"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\newstyle.css",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\newstyle.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\newstyle.min.css",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\newstyle.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\style.css",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\style.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\style.min.css",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\style.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\MyTheme\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\MyTheme\\scss\\style.scss"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\NimaZare\\MyCodes\\Blazor\\MmrzWeb\\MmrzWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MmrzWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MmrzWeb.props",
+      "PackagePath": "build\\MmrzWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MmrzWeb.props",
+      "PackagePath": "buildMultiTargeting\\MmrzWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MmrzWeb.props",
+      "PackagePath": "buildTransitive\\MmrzWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
